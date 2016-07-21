@@ -20,3 +20,7 @@ Run `express -e todo_app` inside your forked/cloned HW repository to begin.
   * You'll want to make the constructor function in `item.js` in a `models` folder.
 * Add images or GIFs to to-do list items
 * Be creative!
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
